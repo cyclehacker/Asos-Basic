@@ -1,4 +1,3 @@
-# Asos-Crawler
 # Skeleton Asos product category crawler
 
 Configured to scrape the mens shoes categories product names and prices.
