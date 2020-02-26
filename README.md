@@ -1,5 +1,7 @@
 # Skeleton Asos product category crawler
 
+Build using Python 3.6.9 and Scrapy 1.8.0.
+
 Configured to scrape the mens shoes categories product names and prices.
 
 Change or add top level product category url(s) in the 'start_url' list to crawl different categories, e.g.:
